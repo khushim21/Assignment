@@ -7,5 +7,7 @@ Given a dictionary D where key is of form YYYY-MM-DD and its corresponding value
 
 ## Write an efficient algorithm for the following assumptions:
 -Input Dictionary will have at least Mon & Sun
+
 -Input Dictionary key is a string within the range [1970-01-01..2100-01-01).
+
 -And its corresponding value is an integer within the range (-1,000,000 1,000,000)
